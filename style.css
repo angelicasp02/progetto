@@ -1,0 +1,22 @@
+.desktop {
+  background-color: #17bebb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .WANDER-wrapper {
+  background-color: #17bebb;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .WANDER {
+  position: absolute;
+  width: 1440px;
+  height: 475px;
+  top: 139px;
+  left: 0;
+}
